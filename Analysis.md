@@ -5,6 +5,7 @@
 ## 1. Initial Landmark Identification
 The investigation began with analysis of visible text within the image. A readable structure label identified the name:
 * **"Verlag Kiepenheuer"**
+![Initial Scene](images/original-image.jpg)
 
 Further visual inspection revealed a recognizable architectural landmark consistent with:
 * **Cologne Cathedral (Kölner Dom)**
@@ -22,6 +23,7 @@ Germany is located in the Northern Hemisphere. This establishes a predictable so
 `East → South → West`
 
 At approximately midday, the sun occupies the southern portion of the sky. This became an important reference point during subsequent orientation analysis.
+![Initial Scene](images/original-image.jpg)
 
 ---
 
@@ -33,6 +35,9 @@ Using satellite mapping and surrounding structural comparison, the visible envir
 * **Cologne Cathedral surroundings**
 
 This allowed reconstruction of the approximate scene geometry and observer orientation.
+![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/original-image.jpg)
 
 ---
 
@@ -44,6 +49,7 @@ Visual examination of Trankgasse suggested that the road runs approximately alon
 3. Surrounding building placement
 
 The road orientation became relevant when estimating the probable solar direction relative to the observer viewpoint.
+![Initial Scene](images/original-image.jpg)
 
 ---
 
@@ -56,6 +62,7 @@ The image also contained visible warm golden illumination characteristics. This 
 * Relatively low-to-medium solar elevation
 * Strong directional lighting
 * Probable late-morning solar conditions
+![Initial Scene](images/original-image.jpg)
 
 ---
 
@@ -68,6 +75,7 @@ A solar positioning tool was used for reconstruction: **SunCalc**. The hotel loc
 * Observer viewpoint geometry
 
 Multiple simulated solar positions were compared against the image lighting conditions.
+![Initial Scene](images/suncalc.jpg)
 
 ---
 
@@ -81,6 +89,7 @@ This orientation remained consistent with:
 * SunCalc solar azimuth simulations
 
 The reconstructed geometry suggested that the sun was positioned toward the southeast portion of the scene during image capture.
+![Initial Scene](images/original-image.jpg)
 
 ---
 
@@ -93,7 +102,7 @@ This interval consistently matched:
 * Environmental lighting behavior
 * Reconstructed building orientation
 * Visible solar intensity
-
+![Initial Scene](images/original-image.jpg)
 ---
 
 ## 9. Analytical Conclusion
