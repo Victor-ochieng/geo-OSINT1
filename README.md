@@ -1,17 +1,38 @@
+# Case Investigation
 
-# Solar and Architectural Reconstruction Using a Single Image
+## Overview
 
-Objective:
-Approximate image capture time using architectural and solar analysis.
+This investigation demonstrates how image capture timing and scene orientation can be approximated using open-source geographic and environmental analysis techniques.
 
-Key findings:
-- Region identified as Cologne, Germany
-- Solar geometry matched southeast illumination
-- Estimated capture window:
-  11:30 AM — 12:15 PM
+The case focused on reconstructing probable capture time using:
+- landmark correlation
+- solar positioning
+- architectural orientation
+- road alignment
+- environmental lighting behavior
 
-Techniques used:
-- Sun path reconstruction
-- Building orientation analysis
-- Road alignment analysis
-- Environmental lighting analysis
+No metadata, GPS information, timestamps, or visible shadow measurements were used during the investigation.
+
+---
+
+# Objective
+
+Approximate the probable capture time of an image taken near:
+- Cologne Cathedral (Koln Dom)
+- Excelsior Hotel Ernst
+- Trankgasse
+- Cologne, Germany
+
+using only environmental and structural indicators visible within the scene.
+
+---
+
+# Key Findings
+
+- The scene was successfully correlated to central Cologne, Germany.
+- Trankgasse road orientation was reconstructed as approximately east-west.
+- Direct solar illumination on the hotel entrance indicated active southeast-facing sunlight conditions.
+- SunCalc solar simulations aligned most consistently with:
+  
+```text
+11:30 AM — 12:15 PM
