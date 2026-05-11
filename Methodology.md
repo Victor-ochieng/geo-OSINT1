@@ -1,14 +1,22 @@
-# Methodology
+# Conclusion
 
-The following investigative workflow was used during this case:
+The investigation successfully reconstructed the probable image capture time and scene orientation using only open-source visual and geographic analysis techniques.
 
-1. Landmark Identification
-2. Geographic Correlation
-3. Environmental Context Analysis
-4. Solar Path Reconstruction
-5. Structural Orientation Analysis
-6. Spatial Cross-Validation
-7. Time Approximation
-8. Confidence Assessment
+Through:
+- landmark correlation
+- architectural reconstruction
+- road alignment analysis
+- solar geometry modeling
+- environmental lighting interpretation
 
-The objective was to reconstruct probable scene timing and orientation using only open-source environmental and geographic indicators.
+the scene was correlated to:
+- Cologne, Germany
+- Excelsior Hotel Ernst surroundings
+- Trankgasse road area
+
+Solar reconstruction and building orientation analysis indicated that the hotel entrance was receiving direct southeast-facing illumination during image capture.
+
+SunCalc simulations consistently aligned this lighting condition with an estimated capture window of:
+
+```text
+11:30 AM — 12:15 PM
