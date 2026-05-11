@@ -14,7 +14,7 @@ Correlation of both landmarks established the probable investigation region as:
 * **Cologne, Germany**
 
 This provided the geographic foundation required for environmental and solar reconstruction.
-![Initial Scene](images/verlag.png)
+![Initial Scene](images/verlag1.png)
 ![Initial Scene](images/Verlag.png)
 
 ---
