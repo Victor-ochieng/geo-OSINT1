@@ -5,7 +5,7 @@
 ## 1. Initial Landmark Identification
 The investigation began with analysis of visible text within the image. A readable structure label identified the name:
 * **"Verlag Kiepenheuer"**
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/original.jpg)
 
 Further visual inspection revealed a recognizable architectural landmark consistent with:
 * **Cologne Cathedral (Kölner Dom)**
@@ -64,7 +64,7 @@ The image also contained visible warm golden illumination characteristics. This 
 * Relatively low-to-medium solar elevation
 * Strong directional lighting
 * Probable late-morning solar conditions
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/original.jpg)
 
 ---
 
@@ -77,7 +77,7 @@ A solar positioning tool was used for reconstruction: **SunCalc**. The hotel loc
 * Observer viewpoint geometry
 
 Multiple simulated solar positions were compared against the image lighting conditions.
-![Initial Scene](images/suncalc.png)
+![Initial Scene](images/suncalc1.png)
 
 ---
 
