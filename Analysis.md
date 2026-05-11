@@ -23,7 +23,7 @@ Germany is located in the Northern Hemisphere. This establishes a predictable so
 `East → South → West`
 
 At approximately midday, the sun occupies the southern portion of the sky. This became an important reference point during subsequent orientation analysis.
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/suncalc.png)
 
 ---
 
@@ -35,9 +35,9 @@ Using satellite mapping and surrounding structural comparison, the visible envir
 * **Cologne Cathedral surroundings**
 
 This allowed reconstruction of the approximate scene geometry and observer orientation.
-![Initial Scene](images/original-image.jpg)
-![Initial Scene](images/original-image.jpg)
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/trankgasse1.png)
+![Initial Scene](images/trankgasse2.png)
+![Initial Scene](images/trankgasse3.png)
 
 ---
 
@@ -49,7 +49,9 @@ Visual examination of Trankgasse suggested that the road runs approximately alon
 3. Surrounding building placement
 
 The road orientation became relevant when estimating the probable solar direction relative to the observer viewpoint.
-![Initial Scene](images/original-image.jpg)
+
+![Initial Scene](images/Trankgasse.png)
+
 
 ---
 
@@ -75,7 +77,7 @@ A solar positioning tool was used for reconstruction: **SunCalc**. The hotel loc
 * Observer viewpoint geometry
 
 Multiple simulated solar positions were compared against the image lighting conditions.
-![Initial Scene](images/suncalc.jpg)
+![Initial Scene](images/suncalc.png)
 
 ---
 
@@ -89,7 +91,7 @@ This orientation remained consistent with:
 * SunCalc solar azimuth simulations
 
 The reconstructed geometry suggested that the sun was positioned toward the southeast portion of the scene during image capture.
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/trankgasse1.png)
 
 ---
 
@@ -102,7 +104,7 @@ This interval consistently matched:
 * Environmental lighting behavior
 * Reconstructed building orientation
 * Visible solar intensity
-![Initial Scene](images/original-image.jpg)
+![Initial Scene](images/suncalc.png)
 ---
 
 ## 9. Analytical Conclusion
