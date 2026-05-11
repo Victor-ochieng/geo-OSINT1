@@ -11,6 +11,8 @@ The case focused on reconstructing probable capture time using:
 - road alignment
 - environmental lighting behavior
 
+![Initial Scene](images/original.jpg)
+
 No metadata, GPS information, timestamps, or visible shadow measurements were used during the investigation.
 
 ---
